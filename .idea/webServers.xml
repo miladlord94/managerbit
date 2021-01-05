@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d43b1505-0443-47f8-842c-0b70b297f6d1" name="bit" url="http://localhost:4499/bitcoin">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\bitcoin" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
