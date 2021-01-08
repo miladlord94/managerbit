@@ -1,6 +1,7 @@
 <?php
 include ('includes/header.php');
 ?>
+
         <!-- Banner Area Starts -->
         <section class="banner-area">
 			<div class="banner-overlay">
@@ -39,7 +40,7 @@ include ('includes/header.php');
                                 <!-- Panel Heading Starts -->
                                 <div class="panel-heading">
                                     <h4 class="panel-title">
-                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
 								بیت کوین چیست؟</a>
                                     </h4>
                                 </div>
