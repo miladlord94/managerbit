@@ -99,7 +99,7 @@
 			<div>
 				<div class="text-center">
 					<!-- Logo Starts -->
-					<a class="logo" href="index.html">
+					<a class="logo" href="index.php">
 						<img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo">
 					</a>
 					<!-- Logo Ends -->
@@ -107,7 +107,7 @@
 					<div class="big-404">404</div>
 					<h3> صفحه یافت نشد</h3>
                     <p>ممکن است صفحه مورد نظر حذف شده باشد ، نام آن تغییر کرده باشد یا به طور موقت در دسترس نباشد.</p>
-					<a href="index.html" class="btn btn-primary">صفحه نخست</a>
+					<a href="index.php" class="btn btn-primary">صفحه نخست</a>
 					<!-- Error 404 Content Starts -->
 				</div>
 			</div>

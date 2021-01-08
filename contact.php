@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Terms of services - Bayya Bitcoin Crypto Currency Template</title>
+    <title>Contact Us - Bayya Bitcoin Crypto Currency Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Favicon -->
@@ -16,9 +16,9 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/select2.min.css">
     <link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/skins/orange.css">
-	
-	<!-- Live Style Switcher - demo only -->
+    <link rel="stylesheet" href="css/skins/orange.css">
+
+    <!-- Live Style Switcher - demo only -->
     <link rel="alternate stylesheet" type="text/css" title="orange" href="css/skins/orange.css" />
     <link rel="alternate stylesheet" type="text/css" title="green" href="css/skins/green.css" />
     <link rel="alternate stylesheet" type="text/css" title="blue" href="css/skins/blue.css" />
@@ -57,7 +57,7 @@
         </div>
     </div>
     <!-- SVG Preloader Ends -->
-	<!-- Live Style Switcher Starts - demo only -->
+    <!-- Live Style Switcher Starts - demo only -->
     <div id="switcher" class="">
         <div class="content-switcher">
             <h4>سبک قالب</h4>
@@ -101,7 +101,7 @@
                 <div class="row">
                     <!-- Logo Starts -->
                     <div class="main-logo col-xs-12 col-md-3 col-md-2 col-lg-2 hidden-xs">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo">
                         </a>
                     </div>
@@ -127,8 +127,8 @@
                     <!-- User Sign In/Sign Up Starts -->
                     <div class="col-md-3 col-lg-3">
                         <ul class="unstyled user">
-                            <li class="sign-in"><a href="login.html" class="btn btn-primary"><i class="fa fa-user"></i> ورود</a></li>
-                            <li class="sign-up"><a href="register.html" class="btn btn-primary"><i class="fa fa-user-plus"></i> ثبت نام</a></li>
+                            <li class="sign-in"><a href="login.php" class="btn btn-primary"><i class="fa fa-user"></i> ورود</a></li>
+                            <li class="sign-up"><a href="register.php" class="btn btn-primary"><i class="fa fa-user-plus"></i> ثبت نام</a></li>
                         </ul>
                     </div>
                     <!-- User Sign In/Sign Up Ends -->
@@ -139,7 +139,7 @@
                 <div class="container">
                     <div class="site-nav-inner">
                         <!-- Logo For ONLY Mobile display Starts -->
-                        <a class="logo-mobile" href="index.html">
+                        <a class="logo-mobile" href="index.php">
                             <img id="logo-mobile" class="img-responsive" src="images/logo-dark.png" alt="">
                         </a>
                         <!-- Logo For ONLY Mobile display Ends -->
@@ -154,36 +154,36 @@
                         <div class="collapse navbar-collapse navbar-responsive-collapse">
                             <!-- Main Menu Starts -->
                             <ul class="nav navbar-nav">
-                                <li><a href="index.html">خانه</a></li>
-                                <li><a href="about.html">درباره ما</a></li>
-                                <li><a href="services.html">خدمات</a></li>
-                                <li><a href="pricing.html">قیمت</a></li>
+                                <li><a href="index.php">خانه</a></li>
+                                <li><a href="about.php">درباره ما</a></li>
+                                <li><a href="services.php">خدمات</a></li>
+                                <li><a href="pricing.php">قیمت</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">وبلاگ <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="blog-right-sidebar.html">نوار کناری راست</a></li>
-                                        <li><a href="blog-left-sidebar.html">نوار کناری سمت چپ</a></li>
-                                        <li><a href="blog-grid-no-sidebar.html">بدون شبکه نوار کناری</a></li>
-                                        <li><a href="blog-post.html">پست</a></li>
+                                        <li><a href="blog-right-sidebar.php">نوار کناری راست</a></li>
+                                        <li><a href="blog-left-sidebar.php">نوار کناری سمت چپ</a></li>
+                                        <li><a href="blog-grid-no-sidebar.php">بدون شبکه نوار کناری</a></li>
+                                        <li><a href="blog-post.php">پست</a></li>
                                     </ul>
                                 </li>
-                                <li class="active dropdown">
+                                <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">صفحات <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="register.html">صفحه ثبت نام</a></li>
-                                        <li><a href="login.html">صفحه ورود</a></li>
-                                        <li><a href="shopping-cart.html">سبد خرید</a></li>
-                                        <li><a href="shopping-checkout.html">پرداخت خرید</a></li>
-                                        <li><a href="faq.html">صفحه سؤالات متداول</a></li>
-                                        <li><a href="404.html">صفحه 404</a></li>
-                                        <li><a href="503.html">صفحه خطای سرور</a></li>
-                                        <li class="active"><a href="terms-of-services.html">شرایط خدمات</a></li>
-                                        <li><a href="coming-soon.html">به زودی</a></li>
+                                        <li><a href="register.php">صفحه ثبت نام</a></li>
+                                        <li><a href="login.php">صفحه ورود</a></li>
+                                        <li><a href="shopping-cart.php">سبد خرید</a></li>
+                                        <li><a href="shopping-checkout.php">پرداخت خرید</a></li>
+                                        <li><a href="faq.php">صفحه سؤالات متداول</a></li>
+                                        <li><a href="404.php">صفحه 404</a></li>
+                                        <li><a href="503.php">صفحه خطای سرور</a></li>
+                                        <li><a href="terms-of-services.php">شرایط خدمات</a></li>
+                                        <li><a href="coming-soon.php">به زودی</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">تماس با ما</a></li>
+                                <li class="active"><a href="contact.php">تماس با ما</a></li>
                                 <!-- Cart Icon Starts -->
-                                <li class="cart"><a href="shopping-cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                                <li class="cart"><a href="shopping-cart.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 <!-- Cart Icon Starts -->
                                 <!-- Search Icon Starts -->
                                 <li class="search"><button class="fa fa-search"></button></li>
@@ -205,8 +205,8 @@
             <!-- Navigation Menu Ends -->
         </header>
         <!-- Header Ends -->
-		<!-- Banner Area Starts -->
-		<section class="banner-area">
+        <!-- Banner Area Starts -->
+        <section class="banner-area">
 			<div class="banner-overlay">
 				<div class="banner-text text-center">
 					<div class="container">
@@ -214,13 +214,13 @@
 						<div class="row text-center">
 							<div class="col-xs-12">
 								<!-- Title Starts -->
-								<h2 class="title-head">شرایط <span>خدمات</span></h2>
+								<h2 class="title-head">با ما در <span>تماس باشید</span></h2>
 								<!-- Title Ends -->
 								<hr>
 								<!-- Breadcrumb Starts -->
 								<ul class="breadcrumb">
-									<li><a href="index.html"> خانه</a></li>
-									<li>شرایط خدمات</li>
+									<li><a href="index.php"> خانه</a></li>
+									<li>تماس با ما</li>
 								</ul>
 								<!-- Breadcrumb Ends -->
 							</div>
@@ -229,32 +229,110 @@
 					</div>
 				</div>
 			</div>
-		</section>
-		<!-- Banner Area Ends -->
-		<!-- Section Terms of Services Starts -->
-        <section class="terms-of-services">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12">
-						<h3>اعلام خطر</h3>
-						<p>بیت کوین یک پشتوانه یا ارزشی نیست که توسط هیچ موسسه مالی تضمین شده باشد. مشتری هنگام خرید بیت کوین فرض می کند که همه خطراتی که بیت کوین ممکن است از نظر ارزش بی ارزش باشد. مشتریان قبل از خرید بیت کوین باید خطرات تحقیقاتی را در نظر بگیرند. این شرکت هیچ تضمینی در مورد ارزش آینده بیت کوین های خریداری شده ندارد.</p>
-						<h3>قابلیت جداسازی</h3>
-						<p>درصورتیکه دادگاه بخواهد هر بخش یا بخشهای این توافق نامه را باطل و یا باطل اعلام کند ، چنین اظهاراتی کلیه توافق نامه را باطل نمی کند و کلیه بندهای دیگر این توافقنامه در تمام توان و اثر خود باقی می مانند..</p>
-						<h3>خطاهای ورودی مشتری</h3>
-						<p>این تنها مسئولیت مشتری است که صحت اطلاعات وارد شده و ذخیره شده در وب سایت را بررسی کند. جزئیات حساب نمایش داده شده در صفحه خلاصه سفارش مقصد نهایی انتقال خواهد بود. در صورتی که این اطلاعات نادرست باشد و وجوه به مقصد مورد نظر منتقل نشود ، شرکت نباید مشتری را بازپرداخت کند و نباید وجوه اضافی را نیز انتقال دهد. از آنجا که چنین مشتریانی باید از آدرس بیت کوین و اطلاعات بانکی که وارد می شوند اطمینان حاصل کنند.</p>
-						<h3>توافق نامه الزام آور</h3>
-						<p>شرایط و مفاد این توافق نامه برای وارث ، جانشینان ، تکالیف و سایر نمایندگان شما الزام آور است. این توافق نامه ممکن است در همتایان اجرا شود ، که هر یک از آنها اصلی تلقی می شوند ، اما هر دو این توافق نامه یکسان را تشکیل می دهند.</p>
-						<h3>سفارشات منقضی شده</h3>
-						<p>اگر شرکت پرداخت وجهی را که قبلاً منقضی شده است دریافت کند ، این شرکت حق دارد در زمان پردازش انتقال به مشتری ، دوباره نرخ بیت کوین را به نرخ تایلند بات محاسبه کند. این ممکن است باعث شود مشتری از بیت کوین یا تایلند بات کمتر از مبلغ سفارش داده اصلی دریافت کند.</p>
-						<h3>انتخاب قانون</h3>
-						<p>این توافق نامه ، و کاربرد و تفسیر آن ، منحصراً مطابق قوانین ایالت جورجیا ، بدون توجه به تضاد قوانین آن ، اداره خواهد شد. شما به صلاحیت ویژه دادگاههای فدرال و ایالتی واقع در یا در نزدیکی آتلانتا ، جورجیا برای هرگونه اختلاف ناشی از این توافق نامه رضایت می دهید.</p>
-						<h3>امنیت</h3>
-						<p>ما اقدامات امنیتی را برای اطمینان از اطلاعات شما از دست دادن تصادف و از دسترسی ، استفاده ، تغییر یا افشای غیرمجاز طراحی کرده ایم. با این حال ، ما نمی توانیم تضمین کنیم که افراد غیرمجاز هرگز به اطلاعات شما دسترسی نخواهند داشت ، و شما تأیید می کنید که اطلاعات خود را در معرض خطر خود شما قرار می دهید ، مگر اینکه در قانون مقرر دیگری تصریح شده باشد..</p>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Section Terms of Services Ends -->
+        </section>
+        <!-- Banner Area Ends -->
+        <!-- Contact Section Starts -->
+        <section class="contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-8 contact-form">
+						<h3 class="col-xs-12">احساس راحتی کنید که پیامی را به ما میدهید</h3>
+                        <p class="col-xs-12">آیا نیاز به صحبت با ما دارید؟ آیا سؤال یا پیشنهادی دارید؟ لطفا با ما در مورد تمام سوالات از جمله عضویت و کار داوطلبانه با استفاده از فرم زیر تماس بگیرید.</p>
+                        <!-- Contact Form Starts -->
+                        <form class="form-contact" method="post" action="php/process-form.php">
+                            <!-- Input Field Starts -->
+                            <div class="form-group col-md-6">
+                                <input class="form-control" name="firstname" id="firstname" placeholder="نام " type="text" required>
+                            </div>
+                            <!-- Input Field Ends -->
+                            <!-- Input Field Starts -->
+                            <div class="form-group col-md-6">
+                                <input class="form-control" name="lastname" id="lastname" placeholder="نام خانوادگی" type="text" required>
+                            </div>
+                            <!-- Input Field Ends -->
+                            <!-- Input Field Starts -->
+                            <div class="form-group col-md-6">
+                                <input class="form-control" name="email" id="email" placeholder="ایمیل" type="email" required>
+                            </div>
+                            <!-- Input Field Ends -->
+                            <!-- Input Field Starts -->
+                            <div class="form-group col-md-6">
+                                <input class="form-control" name="text" id="subject" placeholder="موضوع" type="text" required>
+                            </div>
+                            <!-- Input Field Ends -->
+                            <!-- Input Field Starts -->
+                            <div class="form-group col-xs-12">
+                                <textarea class="form-control" id="message" name="message" placeholder="پیام" required></textarea>
+                            </div>
+                            <!-- Input Field Ends -->
+                            <!-- Submit Form Button Starts -->
+                            <div class="form-group col-xs-12 col-sm-4">
+                                <button class="btn btn-primary btn-contact" type="submit">ارسال</button>
+                            </div>
+                            <!-- Submit Form Button Ends -->
+                            <!-- Form Submit Message Starts -->
+                            <div class="col-xs-12 text-center output_message_holder d-none">
+								<p class="output_message"></p>
+                            </div>
+                             <!-- Form Submit Message Ends -->
+                        </form>
+						<!-- Contact Form Ends -->
+                    </div>
+					<!-- Contact Widget Starts -->
+                    <div class="col-xs-12 col-md-4">
+                        <div class="widget">
+                            <div class="contact-page-info">
+								<!-- Contact Info Box Starts -->
+                                <div class="contact-info-box">
+                                    <i class="fa fa-home big-icon"></i>
+                                    <div class="contact-info-box-content">
+                                        <h4>آدرس</h4>
+                                        <p>ایران , تهران , نیاوران , خیابان بهشت , پلاک 12345</p>
+                                    </div>
+                                </div>
+								<!-- Contact Info Box Ends -->
+								<!-- Contact Info Box Starts -->
+                                <div class="contact-info-box">
+                                    <i class="fa fa-phone big-icon"></i>
+                                    <div class="contact-info-box-content">
+                                        <h4>شماره تلفن ها</h4>
+                                        <p>+021 1234567<br>+021 1234567</p>
+                                    </div>
+                                </div>
+								<!-- Contact Info Box Ends -->
+								<!-- Contact Info Box Starts -->
+                                <div class="contact-info-box">
+                                    <i class="fa fa-envelope big-icon"></i>
+                                    <div class="contact-info-box-content">
+                                        <h4>آدرس ایمیل</h4>
+
+                                        <p>contact@example.com<br>info@example.com</p>
+                                    </div>
+                                </div>
+								<!-- Contact Info Box Ends -->
+								<!-- Social Media Icons Starts -->
+                                <div class="contact-info-box">
+                                    <i class="fa fa-share-alt big-icon"></i>
+                                    <div class="contact-info-box-content">
+                                        <h4>شبکه های اجتماعی</h4>
+                                        <div class="social-contact">
+                                            <ul>
+                                                <li class="facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                                <li class="twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                                <li class="google-plus"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+								<!-- Social Media Icons Starts -->
+                            </div>
+                        </div>
+                    </div>
+					<!-- Contact Widget Ends -->
+                </div>
+            </div>
+        </section>
+        <!-- Contact Section Ends -->
         <!-- Call To Action Section Starts -->
         <section class="call-action-all">
             <div class="call-action-all-overlay">
@@ -268,7 +346,7 @@
                             </div>
                             <!-- Call To Action Text Ends -->
                             <!-- Call To Action Button Starts -->
-                            <p class="action-btn"><a class="btn btn-primary" href="register.html">اکنون ثبت نام کنید</a></p>
+                            <p class="action-btn"><a class="btn btn-primary" href="register.php">اکنون ثبت نام کنید</a></p>
                             <!-- Call To Action Button Ends -->
                         </div>
                     </div>
@@ -286,12 +364,12 @@
                             <h4>شرکت ما</h4>
                             <div class="menu">
                                 <ul>
-                                    <li><a href="index.html">خانه</a></li>
-                                    <li><a href="about.html">در باره ما</a></li>
-                                    <li><a href="services.html">خدمات</a></li>
-                                    <li><a href="pricing.html">قیمت</a></li>
-                                    <li><a href="blog-right-sidebar.html">وبلاگ</a></li>
-                                    <li><a href="contact.html">تماس با ما</a></li>
+                                    <li><a href="index.php">خانه</a></li>
+                                    <li><a href="about.php">در باره ما</a></li>
+                                    <li><a href="services.php">خدمات</a></li>
+                                    <li><a href="pricing.php">قیمت</a></li>
+                                    <li><a href="blog-right-sidebar.php">وبلاگ</a></li>
+                                    <li><a href="contact.php">تماس با ما</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -301,12 +379,12 @@
                             <h4>راهنما و پشتیبانی</h4>
                             <div class="menu">
                                 <ul>
-                                    <li><a href="faq.html">سؤالات متداول</a></li>
-                                    <li><a href="terms-of-services.html">شرایط خدمات</a></li>
-                                    <li><a href="404.html">404</a></li>
-                                    <li><a href="register.html">ثبت نام</a></li>
-                                    <li><a href="login.html">ورود به سیستم</a></li>
-                                    <li><a href="coming-soon.html">به زودی</a></li>
+                                    <li><a href="faq.php">سؤالات متداول</a></li>
+                                    <li><a href="terms-of-services.php">شرایط خدمات</a></li>
+                                    <li><a href="404.php">404</a></li>
+                                    <li><a href="register.php">ثبت نام</a></li>
+                                    <li><a href="login.php">ورود به سیستم</a></li>
+                                    <li><a href="coming-soon.php">به زودی</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -394,19 +472,19 @@
             <!-- Footer Bottom Area Ends -->
         </footer>
         <!-- Footer Ends -->
-		<!-- Back To Top Starts  -->
+        <!-- Back To Top Starts  -->
         <a href="#" id="back-to-top" class="back-to-top fa fa-arrow-up"></a>
-		<!-- Back To Top Ends  -->
-		
+        <!-- Back To Top Ends  -->
+
         <!-- Template JS Files -->
         <script src="js/jquery-2.2.4.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/select2.min.js"></script>
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="js/custom.js"></script>
-		
-		<!-- Live Style Switcher JS File - only demo -->
-		<script src="js/styleswitcher.js"></script>
+
+        <!-- Live Style Switcher JS File - only demo -->
+        <script src="js/styleswitcher.js"></script>
 
     </div>
     <!-- Wrapper Ends -->

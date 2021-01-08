@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Register - Bayya Bitcoin Crypto Currency Template</title>
+    <title>Coming Soon - Bayya Bitcoin Crypto Currency Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- Favicon -->
@@ -29,7 +29,7 @@
 
 </head>
 
-<body class="auth-page">
+<body class="error-page coming-soon">
     <!-- SVG Preloader Starts -->
     <div id="preloader">
         <div id="preloader-content">
@@ -74,8 +74,8 @@
             </ul>
 
             <p>رنگ قالب</p>
-			
-			<label><input class="dark_switch" type="radio" name="color_style" id="is_dark" value="dark" checked="checked" /> تیره</label>
+            
+            <label><input class="dark_switch" type="radio" name="color_style" id="is_dark" value="dark" checked="checked" /> تیره</label>
             <label><input class="dark_switch" type="radio" name="color_style" id="is_light" value="light" /> روشن</label>
 
             <hr />
@@ -95,111 +95,35 @@
     <!-- Live Style Switcher Ends - demo only -->
     <!-- Wrapper Starts -->
     <div class="wrapper">
-        <div class="container-fluid user-auth">
-			<div class="hidden-xs col-sm-4 col-md-4 col-lg-4">
-				<!-- Logo Starts -->
-				<a class="logo" href="index.html">
-					<img id="logo-user" class="img-responsive" src="images/logo-dark.png" alt="logo">
-				</a>
-				<!-- Logo Ends -->
-				<!-- Slider Starts -->
-				<div id="carousel-testimonials" class="carousel slide carousel-fade" data-ride="carousel">
-					<!-- Indicators Starts -->
-					<ol class="carousel-indicators">
-						<li data-target="#carousel-testimonials" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-testimonials" data-slide-to="1"></li>
-						<li data-target="#carousel-testimonials" data-slide-to="2"></li>
-					</ol>
-					<!-- Indicators Ends -->
-					<!-- Carousel Inner Starts -->
-					<div class="carousel-inner">
-						<!-- Carousel Item Starts -->
-						<div class="item active item-1">
-							<div>
-								<blockquote>
-									<p>این یک برنامه واقع بینانه است برای هر کسی که به دنبال سرمایه گذاری در سایت است. مرتباً به من پرداخت می شود ، کار خوب را ادامه دهید!</p>
-									<footer>رشت  ,<span>معصومه تاجری</span></footer>
-								</blockquote>
-							</div>
-						</div>
-						<!-- Carousel Item Ends -->
-						<!-- Carousel Item Starts -->
-						<div class="item item-2">
-							<div>
-								<blockquote>
-									<p>بیت کوین در 7 روز دو برابر شد. نباید انتظار بیشتری داشت. خدمات عالی مشتری!</p>
-									<footer>سمنان  ,<span>حمید حمیدی</span></footer>
-								</blockquote>
-							</div>
-						</div>
-						<!-- Carousel Item Ends -->
-						<!-- Carousel Item Starts -->
-						<div class="item item-3">
-							<div>
-								<blockquote>
-									<p>من و خانواده من می خواهیم از شما برای کمک به ما در یافتن فرصتی عالی برای کسب درآمد آنلاین تشکر کنیم. از نحوه کارها بسیار خوشحالم!</p>
-									<footer>ساری  ,<span>مریم احمدی</span></footer>
-								</blockquote>
-							</div>
-						</div>
-						<!-- Carousel Item Ends -->
-					</div>
-					<!-- Carousel Inner Ends -->
+        <div class="container-fluid error">
+			<div>
+				<div class="text-center">
+					<!-- Logo Starts -->
+					<a class="logo" href="index.php">
+						<img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo">
+					</a>
+					<!-- Logo Ends -->
+					<!-- Coming Soon Content Starts -->
+					<h3 class="coming-soon-title">وب سایت جدید ما به زودی ارائه می شود !</h3>
+                    <p>ما در حال ایجاد ویژگی های عالی عالی هستیم! ما فقط آنلاین خواهیم بود :</p>
+					<div class="countdown" id="countdown"></div>
+					<!-- Coming Soon Content Ends -->
 				</div>
-				<!-- Slider Ends -->
-			</div>
-			<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-				<!-- Logo Starts -->
-				<a class="visible-xs" href="index.html">
-					<img id="logo" class="img-responsive mobile-logo" src="images/logo-dark.png" alt="logo">
-				</a>
-				<!-- Logo Ends -->
-				<div class="form-container">
-					<div>
-						<!-- Section Title Starts -->
-						<div class="row text-center">
-							<h2 class="title-head hidden-xs">شروع <span>کنید</span></h2>
-							 <p class="info-form">حساب را به صورت رایگان باز کنید و هم اکنون معاملات بیت کوین را شروع کنید!</p>
-						</div>
-						<!-- Section Title Ends -->
-						<!-- Form Starts -->
-						<form>
-							<!-- Input Field Starts -->
-							<div class="form-group">
-								<input class="form-control" name="name" id="name" placeholder="نام" type="text" required>
-							</div>
-							<!-- Input Field Ends -->
-							<!-- Input Field Starts -->
-							<div class="form-group">
-								<input class="form-control" name="email" id="email" placeholder="ایمیل" type="email" required>
-							</div>
-							<!-- Input Field Ends -->
-							<!-- Input Field Starts -->
-							<div class="form-group">
-								<input class="form-control" name="password" id="password" placeholder="کلمه عبور" type="password" required>
-							</div>
-							<!-- Input Field Ends -->
-							<!-- Submit Form Button Starts -->
-							<div class="form-group">
-								<button class="btn btn-primary" type="submit">ایجاد حساب کاربری</button>
-								<p class="text-center">قبلاً ثبت نام کردید؟ <a href="login.html">ورود به سیستم</a>
-							</div>
-							<!-- Submit Form Button Ends -->
-						</form>
-						<!-- Form Ends -->
-					</div>
-				</div>
-				<!-- Copyright Text Starts -->
-				<p class="text-center copyright-text">کپی رایت © 2020 Bayya همه حقوق محفوظ است | راستچین شده توسط <a href="https://www.rtl-theme.com/user-profile/davod_taheri/" target="_blank">طاهری</a></p>
-				<!-- Copyright Text Ends -->
 			</div>
 		</div>
         <!-- Template JS Files -->
         <script src="js/jquery-2.2.4.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/select2.min.js"></script>
+		<script src="js/jquery.plugin.min.js"></script>
+		<script src="js/jquery.countdown.min.js"></script>
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="js/custom.js"></script>
+		<script>
+		// $(function () {
+		// 	$('#countdown').countdown({until: new Date(2020, 06-1, 25)});
+		// });
+		</script>
 		
 		<!-- Live Style Switcher JS File - only demo -->
 		<script src="js/styleswitcher.js"></script>

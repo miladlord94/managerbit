@@ -98,7 +98,7 @@
         <div class="container-fluid user-auth">
 			<div class="hidden-xs col-sm-4 col-md-4 col-lg-4">
 				<!-- Logo Starts -->
-				<a class="logo" href="index.html">
+				<a class="logo" href="index.php">
 					<img id="logo-user" class="img-responsive" src="images/logo-dark.png" alt="logo">
 				</a>
 				<!-- Logo Ends -->
@@ -150,7 +150,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<!-- Logo Starts -->
-				<a class="visible-xs" href="index.html">
+				<a class="visible-xs" href="index.php">
 					<img id="logo" class="img-responsive mobile-logo" src="images/logo-dark.png" alt="logo">
 				</a>
 				<!-- Logo Ends -->
@@ -177,7 +177,7 @@
 							<!-- Submit Form Button Starts -->
 							<div class="form-group">
 								<button class="btn btn-primary" type="submit">ورود به سیستم</button>
-								<p class="text-center">ثبت نام نکردید ؟ <a href="register.html">هم اکنون ثبت نام کنید</a>
+								<p class="text-center">ثبت نام نکردید ؟ <a href="register.php">هم اکنون ثبت نام کنید</a>
 							</div>
 							<!-- Submit Form Button Ends -->
 						</form>
@@ -185,7 +185,7 @@
 					</div>
 				</div>
 				<!-- Copyright Text Starts -->
-				<p class="text-center copyright-text">کپی رایت © 2020 Bayya همه حقوق محفوظ است | راستچین شده توسط <a href="https://www.rtl-theme.com/user-profile/davod_taheri/" target="_blank">طاهری</a></p>
+<!--				<p class="text-center copyright-text">کپی رایت © 2020 Bayya همه حقوق محفوظ است | راستچین شده توسط <a href="https://www.rtl-theme.com/user-profile/davod_taheri/" target="_blank">طاهری</a></p>-->
 				<!-- Copyright Text Ends -->
 			</div>
 		</div>

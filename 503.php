@@ -99,7 +99,7 @@
 			<div>
 				<div class="text-center">
 					<!-- Logo Starts -->
-					<a class="logo" href="index.html">
+					<a class="logo" href="index.php">
 						<img id="logo" class="img-responsive" src="images/logo-dark.png" alt="logo">
 					</a>
 					<!-- Logo Ends -->
